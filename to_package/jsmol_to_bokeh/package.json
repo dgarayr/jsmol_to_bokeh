@@ -1,0 +1,12 @@
+{
+  "name": "jsmol_to_bokeh",
+  "version": "0.0.1",
+  "description": "",
+  "license": "BSD-3-Clause",
+  "keywords": [],
+  "repository": {},
+  "dependencies": {
+    "@bokeh/bokehjs": "^2.4.0"
+  },
+  "devDependencies": {}
+}
